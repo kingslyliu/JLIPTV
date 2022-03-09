@@ -121,7 +121,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",CCTV5-C
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/42330389.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育"，CCTV5-D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",CCTV5-D
 http://182.151.211.171:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",CCTV5-E
 http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
