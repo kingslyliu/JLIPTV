@@ -6,7 +6,7 @@ http://139.215.98.88/PLTV/88888888/224/3221225799/100001000000000600000000142749
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://139.215.98.88/PLTV/88888888/224/3221226127/10000100000000060000000015558809_0.smil
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4EUO
 http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4AME
@@ -25,16 +25,24 @@ http://139.215.98.88/PLTV/88888888/224/3221226133/100001000000000600000000155588
 http://139.215.98.88/PLTV/88888888/224/3221225803/10000100000000060000000014274943_0.smil
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://139.215.98.88/PLTV/88888888/224/3221225805/10000100000000060000000014274956_0.smil
+#EXTINF:-1 tvg-id="12" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv11.png" group-title="央视",CCTV11
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://139.215.98.88/PLTV/88888888/224/3221225807/10000100000000060000000014274957_0.smil
+#EXTINF:-1 tvg-id="14" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv13.png" group-title="央视",CCTV13
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://139.215.98.88/PLTV/88888888/224/3221225809/10000100000000060000000014274958_0.smil
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504/42330389.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="7249" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv16.png" group-title="央视",CCTV16
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://139.215.98.88/PLTV/88888888/224/3221225801/10000100000000060000000014274940_0.smil
+#EXTINF:-1 tvg-id="106" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="央视",CCTV4K
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTNDocumentary
 http://139.215.98.88/PLTV/88888888/224/3221225549/10000100000000060000000000049675_0.smil
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
@@ -113,7 +121,7 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻
+#EXTINF:-1 tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/ztxw.png" group-title="港澳台",中天新闻台
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻台
 http://seb.sason.top/sc/sllive_fhd.m3u8
