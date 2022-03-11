@@ -101,8 +101,10 @@ http://139.215.98.88/PLTV/88888888/224/3221226073/100001000000000600000000154172
 http://139.215.98.88/PLTV/88888888/224/3221226071/10000100000000060000000015417299_0.smil
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="特色",金鹰纪实
 http://139.215.98.88/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="特色",金鹰卡通
 http://139.215.98.88/PLTV/88888888/224/3221225552/10000100000000060000000000029615_0.smil
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="特色",北京卡酷少儿高清
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="特色",北京纪实
 http://139.215.98.88/PLTV/88888888/224/3221226051/10000100000000060000000015417312_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育台",中国教育电视台
