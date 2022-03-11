@@ -65,7 +65,7 @@ http://139.215.98.88/PLTV/88888888/224/3221225745/100001000000000600000000142539
 http://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV卫生健康
 http://139.215.98.88/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",CCTV高尔夫网球
 http://139.215.98.88/PLTV/88888888/224/3221226213/10000100000000060000000015869929_0.smil
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN Documentary
 http://139.215.98.88/PLTV/88888888/224/3221225549/10000100000000060000000000049675_0.smil
@@ -165,7 +165,7 @@ http://139.215.98.88/PLTV/88888888/224/3221226201/100001000000000600000000156485
 http://139.215.98.88/PLTV/88888888/224/3221225866/10000100000000060000000015648523_0.smil
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="特色频道",CHC家庭影院
 http://139.215.98.88/PLTV/88888888/224/3221225864/10000100000000060000000015648524_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色",体育赛事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道",体育赛事
 http://139.215.98.88/PLTV/88888888/224/3221226199/10000100000000060000000015648527_0.smil
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="特色频道",全纪实
 http://139.215.98.88/PLTV/88888888/224/3221225882/10000100000000060000000015948514_0.smil
