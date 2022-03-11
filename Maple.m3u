@@ -105,6 +105,34 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228326/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/42330389.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林都市
+http://139.215.98.88/PLTV/88888888/224/3221225795/10000100000000060000000014254371_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林影视
+http://139.215.98.88/PLTV/88888888/224/3221225852/10000100000000060000000015242246_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林生活
+http://139.215.98.88/PLTV/88888888/224/3221226013/10000100000000060000000015242249_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林乡村
+http://139.215.98.88/PLTV/88888888/224/3221226015/10000100000000060000000015242250_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林篮球
+http://139.215.98.88/PLTV/88888888/224/3221226135/10000100000000060000000015570879_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林公共新闻
+http://139.215.98.88/PLTV/88888888/224/3221226027/10000100000000060000000015242270_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林综艺文化
+http://139.215.98.88/PLTV/88888888/224/3221226029/10000100000000060000000015242271_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林东北戏曲
+http://139.215.98.88/PLTV/88888888/224/3221226033/10000100000000060000000015242273_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春1综合
+http://139.215.98.88/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春2娱乐
+http://139.215.98.88/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春3市民
+http://139.215.98.88/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春4经济
+http://139.215.98.88/PLTV/88888888/224/3221225636/10000100000000060000000014292016_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春5汽车
+http://139.215.98.88/PLTV/88888888/224/3221225825/10000100000000060000000014290010_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长影频道
+http://139.215.98.88/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="4K频道",求索纪录4K
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K
