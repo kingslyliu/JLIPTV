@@ -48,7 +48,7 @@ http://39.135.138.60:18890/PLTV/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="央视",CCTV4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-8K冬奥专题
-http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
+#http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视",CCTV第一剧场
 http://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视",CCTV世界地理
@@ -76,9 +76,9 @@ http://139.215.98.88/PLTV/88888888/224/3221225872/100001000000000600000000158699
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",CCTV高尔夫网球
 http://139.215.98.88/PLTV/88888888/224/3221226213/10000100000000060000000015869929_0.smil
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN Documentary
-http://139.215.98.88/PLTV/88888888/224/3221225549/10000100000000060000000000049675_0.smil
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-http://139.215.98.88/PLTV/88888888/224/3221225550/10000100000000060000000000029614_0.smil
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育台",中国教育1台
 http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育台",中国教育1台
@@ -143,6 +143,8 @@ http://39.134.19.234:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomai
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cx4k.png" group-title="4K频道",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cx4k.png" group-title="4K频道",纯享4K
+http://39.135.47.101:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/Eurosport4K.png" group-title="4K频道",Eurosport 4K
 http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/4004/index.m3u8
 #EXTINF:-1 tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/SKYHIGHNATURE4K.png" group-title="4K频道",SKY HIGH NATURE 4K
@@ -210,7 +212,7 @@ http://139.215.98.88/PLTV/88888888/224/3221226219/100001000000000600000000159485
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道",动漫秀场
 http://139.215.98.88/PLTV/88888888/224/3221226217/10000100000000060000000015948524_0.smil
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="特色频道",游戏风云
-http://139.215.98.88/PLTV/88888888/224/3221225876/10000100000000060000000015948525_0.smil
+http://iptv.tvfix.org/hls/yxfyhd.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",北京纪实
 http://139.215.98.88/PLTV/88888888/224/3221226051/10000100000000060000000015417312_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育台",中国教育电视台
@@ -222,9 +224,11 @@ http://139.215.98.88/PLTV/88888888/224/3221226215/100001000000000600000000159485
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方频道",茶频道
 http://139.215.98.88/PLTV/88888888/224/3221225874/10000100000000060000000015948529_0.smil
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="主力",翡翠台
+http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻台
