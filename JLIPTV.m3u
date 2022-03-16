@@ -71,11 +71,11 @@ http://139.215.98.88/PLTV/88888888/224/3221225769/100001000000000600000000142540
 http://139.215.98.88/PLTV/88888888/224/3221225829/10000100000000060000000014313392_0.smil
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频道",CCTV女性时尚
 http://139.215.98.88/PLTV/88888888/224/3221225745/10000100000000060000000014253993_0.smil
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="hhttps://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvdszn.png" group-title="央视频道",CCTV电视指南
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvdszn.png" group-title="央视频道",CCTV电视指南
 http://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视频道",CCTV卫生健康
 http://139.215.98.88/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvgefwq.png" group-title="央视频道",CCTV高尔夫网球
 http://139.215.98.88/PLTV/88888888/224/3221226213/10000100000000060000000015869929_0.smil
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视频道",CGTN Documentary
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
