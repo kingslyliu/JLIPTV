@@ -153,8 +153,6 @@ http://39.135.47.101:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSe
 http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/4004/index.m3u8
 #EXTINF:-1 tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/SKYHIGHNATURE4K.png" group-title="4K频道",SKY HIGH NATURE 4K
 http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/14247/index.m3u8
-#EXTINF:-1 tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/LoveNature.png" group-title="4K频道",Love Nature 4K
-http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/5001/index.m3u8
 #EXTINF:-1 tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/one4kil.png" group-title="4K频道",ONE 4K IL
 http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/12276/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/jldspd.jpg" group-title="吉林",吉林都市
@@ -201,20 +199,6 @@ http://139.215.98.88/PLTV/88888888/224/3221225866/100001000000000600000000156485
 http://139.215.98.88/PLTV/88888888/224/3221225864/10000100000000060000000015648524_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道",体育赛事
 http://139.215.98.88/PLTV/88888888/224/3221226199/10000100000000060000000015648527_0.smil
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="特色频道",全纪实
-http://139.215.98.88/PLTV/88888888/224/3221225882/10000100000000060000000015948514_0.smil
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="特色频道",极速汽车
-http://139.215.98.88/PLTV/88888888/224/3221226223/10000100000000060000000015948515_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道",法治天地
-http://139.215.98.88/PLTV/88888888/224/3221225880/10000100000000060000000015948516_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道",金色频道
-http://139.215.98.88/PLTV/88888888/224/3221226221/10000100000000060000000015948519_0.smil
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="特色频道",生活时尚
-http://139.215.98.88/PLTV/88888888/224/3221225878/10000100000000060000000015948520_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道",都市剧场
-http://139.215.98.88/PLTV/88888888/224/3221226219/10000100000000060000000015948521_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道",动漫秀场
-http://139.215.98.88/PLTV/88888888/224/3221226217/10000100000000060000000015948524_0.smil
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="特色频道",游戏风云
 http://iptv.tvfix.org/hls/yxfyhd.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",北京纪实
@@ -223,10 +207,6 @@ http://139.215.98.88/PLTV/88888888/224/3221226051/100001000000000600000000154173
 http://139.215.98.88/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方频道",中国交通频道
 http://139.215.98.88/PLTV/88888888/224/3221226195/10000100000000060000000015634735_0.smil
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方频道",快乐垂钓
-http://139.215.98.88/PLTV/88888888/224/3221226215/10000100000000060000000015948526_0.smil
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方频道",茶频道
-http://139.215.98.88/PLTV/88888888/224/3221225874/10000100000000060000000015948529_0.smil
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
