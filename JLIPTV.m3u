@@ -133,8 +133,6 @@ http://139.215.98.88/PLTV/88888888/224/3221226059/100001000000000600000000154173
 http://139.215.98.88/PLTV/88888888/224/3221226061/10000100000000060000000015417305_0.smil
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方卫视",四川卫视
 http://139.215.98.88/PLTV/88888888/224/3221226073/10000100000000060000000015417297_0.smil
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="地方卫视",青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="106" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="4K频道",CCTV4K
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 #EXTINF:-1 tvg-id="106" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="4K频道",CCTV4K
