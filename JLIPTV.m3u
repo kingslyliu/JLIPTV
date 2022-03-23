@@ -27,27 +27,27 @@ http://139.215.98.88/PLTV/88888888/224/3221226133/100001000000000600000000155588
 http://139.215.98.88/PLTV/88888888/224/3221225803/10000100000000060000000014274943_0.smil
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
 http://139.215.98.88/PLTV/88888888/224/3221225805/10000100000000060000000014274956_0.smil
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
 http://iptv.tvfix.org/hls/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
 http://139.215.98.88/PLTV/88888888/224/3221225807/10000100000000060000000014274957_0.smil
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv13.png" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
 http://iptv.tvfix.org/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
 http://139.215.98.88/PLTV/88888888/224/3221225809/10000100000000060000000014274958_0.smil
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
 http://iptv.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv16.png" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv16.png" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://139.215.98.88/PLTV/88888888/224/3221225801/10000100000000060000000014274940_0.smil
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="央视频道",CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="央视频道",CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频道",CCTV第一剧场
 http://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
@@ -87,7 +87,7 @@ http://iptv.tvfix.org/hls/cgtnehd.m3u8
 http://iptv.tvfix.org/hls/cgtnahd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN西班牙语
 http://iptv.tvfix.org/hls/cgtnxhd.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育台",中国教育1台
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="\\192.168.2.5\video\IPTV\Logo\CCTV\CETV1.PNG" group-title="教育台",中国教育1台
 http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育台",中国教育1台
 http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
