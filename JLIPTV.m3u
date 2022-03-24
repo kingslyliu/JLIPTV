@@ -199,7 +199,7 @@ http://iptv.tvfix.org/hls/brtv5hd.m3u8
 http://iptv.tvfix.org/hls/brtv7hd.m3u8
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="地方频道",北京青年
 http://iptv.tvfix.org/hls/brtv8hd.m3u8
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方频道",北京新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/bjxw1.png" group-title="地方频道",北京新闻
 http://iptv.tvfix.org/hls/brtv9hd.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方频道",北京卡酷少儿
 http://iptv.tvfix.org/hls/brtv10hd.m3u8
@@ -207,11 +207,11 @@ http://iptv.tvfix.org/hls/brtv10hd.m3u8
 http://iptv.tvfix.org/hls/brtv11hd.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方频道",上海纪实
 http://139.215.98.88/PLTV/88888888/224/3221226071/10000100000000060000000015417299_0.smil
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方频道",上海新闻综合
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/shwx.png" group-title="地方频道",上海新闻综合
 http://iptv.tvfix.org/hls/shxwzhhd.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方频道",上海东方影视
 http://iptv.tvfix.org/hls/shdfyshd.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方频道",上海都市频道
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/shds.png" group-title="地方频道",上海都市频道
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/shwy.png" group-title="地方频道",上海外语频道
 http://iptv.tvfix.org/hls/shwypdhd.m3u8
