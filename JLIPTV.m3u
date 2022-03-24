@@ -207,7 +207,7 @@ http://iptv.tvfix.org/hls/brtv11hd.m3u8
 http://139.215.98.88/PLTV/88888888/224/3221226071/10000100000000060000000015417299_0.smil
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/shwx.png" group-title="地方频道",上海新闻综合
 http://iptv.tvfix.org/hls/shxwzhhd.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方频道",上海东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/dfys.png" group-title="地方频道",上海东方影视
 http://iptv.tvfix.org/hls/shdfyshd.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/shds.png" group-title="地方频道",上海都市频道
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
