@@ -87,16 +87,7 @@ http://iptv.tvfix.org/hls/cgtnehd.m3u8
 http://iptv.tvfix.org/hls/cgtnahd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN西班牙语
 http://iptv.tvfix.org/hls/cgtnxhd.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="smb:\\192.168.2.5\video\IPTV\Logo\CCTV\CETV1.PNG" group-title="教育台",中国教育1台
-http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育台",中国教育1台
-http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="教育台",中国教育2台
-http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="教育台",中国教育3台
-http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育台",中国教育4台
-http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
+
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://imgur.com/kTVDKXs" group-title="地方卫视",吉林卫视
 http://139.215.98.88/PLTV/88888888/224/3221225835/10000100000000060000000014698360_0.smil
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方卫视",北京卫视
@@ -139,6 +130,20 @@ http://139.215.98.88/PLTV/88888888/224/3221226059/100001000000000600000000154173
 http://139.215.98.88/PLTV/88888888/224/3221226061/10000100000000060000000015417305_0.smil
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方卫视",四川卫视
 http://139.215.98.88/PLTV/88888888/224/3221226073/10000100000000060000000015417297_0.smil
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国教育台",中国教育电视台
+http://139.215.98.88/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="smb:\\192.168.2.5\video\IPTV\Logo\CCTV\CETV1.PNG" group-title="中国教育台",中国教育1台
+http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="中国教育台",中国教育1台
+http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="中国教育台",中国教育2台
+http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="中国教育台",中国教育3台
+http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="中国教育台",中国教育4台
+http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
+
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="4K频道",CCTV4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="4K频道",CCTV4K
@@ -157,6 +162,7 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cx4k.png" group-title="4K频道",纯享4K
 http://39.135.47.101:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/jldspd.jpg" group-title="吉林",吉林都市
 http://139.215.98.88/PLTV/88888888/224/3221225795/10000100000000060000000014254371_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林影视
@@ -185,6 +191,7 @@ http://139.215.98.88/PLTV/88888888/224/3221225636/100001000000000600000000142920
 http://139.215.98.88/PLTV/88888888/224/3221225825/10000100000000060000000014290010_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长影频道
 http://139.215.98.88/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
+
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方频道",北京文艺
 http://iptv.tvfix.org/hls/brtv2hd.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方频道",北京科教
@@ -203,6 +210,8 @@ http://iptv.tvfix.org/hls/brtv9hd.m3u8
 http://iptv.tvfix.org/hls/brtv10hd.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",北京冬奥纪实
 http://iptv.tvfix.org/hls/brtv11hd.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",北京纪实
+http://139.215.98.88/PLTV/88888888/224/3221226051/10000100000000060000000015417312_0.smil
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方频道",上海纪实
 http://139.215.98.88/PLTV/88888888/224/3221226071/10000100000000060000000015417299_0.smil
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/shwx.png" group-title="地方频道",上海新闻综合
@@ -217,8 +226,11 @@ http://iptv.tvfix.org/hls/shwypdhd.m3u8
 http://139.215.98.88/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实
 http://iptv.tvfix.org/hls/gedocu.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="特色频道",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方频道",金鹰卡通
 http://139.215.98.88/PLTV/88888888/224/3221225552/10000100000000060000000000029615_0.smil
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方频道",中国交通频道
+http://139.215.98.88/PLTV/88888888/224/3221226195/10000100000000060000000015634735_0.smil
+
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="特色频道",北京卡酷少儿高清
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="特色频道",CHC动作电影
@@ -231,12 +243,7 @@ http://139.215.98.88/PLTV/88888888/224/3221225864/100001000000000600000000156485
 http://139.215.98.88/PLTV/88888888/224/3221226199/10000100000000060000000015648527_0.smil
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="特色频道",游戏风云
 http://iptv.tvfix.org/hls/yxfyhd.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",北京纪实
-http://139.215.98.88/PLTV/88888888/224/3221226051/10000100000000060000000015417312_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育台",中国教育电视台
-http://139.215.98.88/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方频道",中国交通频道
-http://139.215.98.88/PLTV/88888888/224/3221226195/10000100000000060000000015634735_0.smil
+
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
@@ -267,7 +274,8 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="港澳台",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="海外新闻",TVBS新闻台 HD
+
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="海外新闻",TVBS新闻台HD
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="海外新闻",ABCAustralia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
