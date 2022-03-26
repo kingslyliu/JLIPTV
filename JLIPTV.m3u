@@ -49,25 +49,25 @@ http://iptv.tvfix.org/hls/cctv17hd.m3u8
 http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="21MB/s" tvg-rez="3840x2160" group-title="央视频道",CCTV4K超高清
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频道",CCTV第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvdyjc.png" group-title="央视频道",CCTV第一剧场
 http://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvsjdl.png" group-title="央视频道",CCTV世界地理
 http://139.215.98.88/PLTV/88888888/224/3221225783/10000100000000060000000014254033_0.smil
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvfyzq.png" group-title="央视频道",CCTV风云足球
 http://139.215.98.88/PLTV/88888888/224/3221225747/10000100000000060000000014253997_0.smil
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频道",CCTV央视台球
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvystq.png" group-title="央视频道",CCTV央视台球
 http://139.215.98.88/PLTV/88888888/224/3221225743/10000100000000060000000014253990_0.smil
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频道",CCTV风云音乐
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvfyyy.png" group-title="央视频道",CCTV风云音乐
 http://139.215.98.88/PLTV/88888888/224/3221225751/10000100000000060000000014254005_0.smil
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvhjjc.png" group-title="央视频道",CCTV怀旧剧场
 http://139.215.98.88/PLTV/88888888/224/3221225757/10000100000000060000000014254008_0.smil
-#EXTINF:-1 tvg-id="6569" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视频道",CCTV央视文化精品
+#EXTINF:-1 tvg-id="6569" tvg-name="" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvyswhjp.png" group-title="央视频道",CCTV央视文化精品
 http://139.215.98.88/PLTV/88888888/224/3221225767/10000100000000060000000014254016_0.smil
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvbqkj.png" group-title="央视频道",CCTV兵器科技
 http://139.215.98.88/PLTV/88888888/224/3221225769/10000100000000060000000014254019_0.smil
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频道",CCTV风云剧场
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvfyjc.png" group-title="央视频道",CCTV风云剧场
 http://139.215.98.88/PLTV/88888888/224/3221225829/10000100000000060000000014313392_0.smil
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频道",CCTV女性时尚
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvnxss.png" group-title="央视频道",CCTV女性时尚
 http://139.215.98.88/PLTV/88888888/224/3221225745/10000100000000060000000014253993_0.smil
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvdszn.png" group-title="央视频道",CCTV电视指南
 http://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
@@ -175,15 +175,15 @@ http://139.215.98.88/PLTV/88888888/224/3221226027/100001000000000600000000152422
 http://139.215.98.88/PLTV/88888888/224/3221226029/10000100000000060000000015242271_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林东北戏曲
 http://139.215.98.88/PLTV/88888888/224/3221226033/10000100000000060000000015242273_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春1综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春综合
 http://139.215.98.88/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春2娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春娱乐
 http://139.215.98.88/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春3市民
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春市民
 http://139.215.98.88/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春4经济
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春经济
 http://139.215.98.88/PLTV/88888888/224/3221225636/10000100000000060000000014292016_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春5汽车
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长春汽车
 http://139.215.98.88/PLTV/88888888/224/3221225825/10000100000000060000000014290010_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",长影频道
 http://139.215.98.88/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
