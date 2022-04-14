@@ -6,7 +6,7 @@ http://139.215.98.88/PLTV/88888888/224/3221225799/100001000000000600000000142749
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3综艺
 http://139.215.98.88/PLTV/88888888/224/3221226127/10000100000000060000000015558809_0.smil
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4中文国际
-http://39.134.19.248:6610/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4中文国际(咪咕)
 http://117.148.179.160/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="央视频道",CCTV4欧洲(咪咕)
