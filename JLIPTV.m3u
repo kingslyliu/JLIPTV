@@ -46,8 +46,6 @@ http://139.215.98.88/PLTV/88888888/224/3221225801/100001000000000600000000142749
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17农村农业
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="21MB/s" tvg-rez="3840x2160" group-title="央视频道",CCTV4K超高清
-http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="21MB/s" tvg-rez="3840x2160" group-title="央视频道",CCTV4K超高清
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctvdyjc.png" group-title="央视频道",CCTV第一剧场
 http://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
