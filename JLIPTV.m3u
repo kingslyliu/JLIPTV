@@ -86,7 +86,7 @@ http://iptv.tvfix.org/hls/cgtnahd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN西班牙语
 http://iptv.tvfix.org/hls/cgtnxhd.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://imgur.com/kTVDKXs" group-title="地方卫视",吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="地方卫视",吉林卫视
 http://139.215.98.88/PLTV/88888888/224/3221225835/10000100000000060000000014698360_0.smil
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方卫视",北京卫视
 http://139.215.98.88/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil
