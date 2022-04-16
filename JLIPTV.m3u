@@ -137,8 +137,6 @@ http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
 http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="4K频道",CCTV4K
-http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="4K频道",CCTV4K
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/cctv4k.png" group-title="4K频道",CCTV4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
@@ -183,23 +181,23 @@ http://139.215.98.88/PLTV/88888888/224/3221225825/100001000000000600000000142900
 http://139.215.98.88/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
 
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/bjwy1.png"" group-title="地方频道",北京文艺
-http://iptv.tvfix.org/hls/brtv2hd.m3u8
+#http://iptv.tvfix.org/hls/brtv2hd.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/bjkj1.png" group-title="地方频道",北京科教
-http://iptv.tvfix.org/hls/brtv3hd.m3u8
+#http://iptv.tvfix.org/hls/brtv3hd.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/bjys1.png" group-title="地方频道",北京影视
-http://iptv.tvfix.org/hls/brtv4hd.m3u8
+#http://iptv.tvfix.org/hls/brtv4hd.m3u8
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/bjcj1.png" group-title="地方频道",北京财经
-http://iptv.tvfix.org/hls/brtv5hd.m3u8
+#http://iptv.tvfix.org/hls/brtv5hd.m3u8
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/bjsh1.png" group-title="地方频道",北京生活
-http://iptv.tvfix.org/hls/brtv7hd.m3u8
+#http://iptv.tvfix.org/hls/brtv7hd.m3u8
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/bjqn1.png" group-title="地方频道",北京青年
-http://iptv.tvfix.org/hls/brtv8hd.m3u8
+#http://iptv.tvfix.org/hls/brtv8hd.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/bjxw1.png" group-title="地方频道",北京新闻
-http://iptv.tvfix.org/hls/brtv9hd.m3u8
+#http://iptv.tvfix.org/hls/brtv9hd.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方频道",北京卡酷少儿
 #http://iptv.tvfix.org/hls/brtv10hd.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",北京冬奥纪实
-http://iptv.tvfix.org/hls/brtv11hd.m3u8
+#http://iptv.tvfix.org/hls/brtv11hd.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",北京纪实
 http://139.215.98.88/PLTV/88888888/224/3221226051/10000100000000060000000015417312_0.smil
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方频道",上海纪实
@@ -209,13 +207,13 @@ http://iptv.tvfix.org/hls/shxwzhhd.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/dfys.png" group-title="地方频道",上海东方影视
 http://iptv.tvfix.org/hls/shdfyshd.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/shds.png" group-title="地方频道",上海都市频道
-http://iptv.tvfix.org/hls/shdspdhd.m3u8
+#http://iptv.tvfix.org/hls/shdspdhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bgtkyu.oss-cn-guangzhou.aliyuncs.com/icon/shwy.png" group-title="地方频道",上海外语频道
-http://iptv.tvfix.org/hls/shwypdhd.m3u8
+#http://iptv.tvfix.org/hls/shwypdhd.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实
 http://139.215.98.88/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实
-http://iptv.tvfix.org/hls/gedocu.m3u8
+#http://iptv.tvfix.org/hls/gedocu.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方频道",金鹰卡通
 http://139.215.98.88/PLTV/88888888/224/3221225552/10000100000000060000000000029615_0.smil
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方频道",中国交通频道
@@ -232,12 +230,10 @@ http://139.215.98.88/PLTV/88888888/224/3221225864/100001000000000600000000156485
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色频道",体育赛事
 http://139.215.98.88/PLTV/88888888/224/3221226199/10000100000000060000000015648527_0.smil
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="特色频道",游戏风云
-http://iptv.tvfix.org/hls/yxfyhd.m3u8
+#http://iptv.tvfix.org/hls/yxfyhd.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
-http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰卫视香港台
