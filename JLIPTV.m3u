@@ -90,6 +90,12 @@ http://139.215.98.88/PLTV/88888888/224/3221226213/100001000000000600000000158699
 http://139.215.98.88/PLTV/88888888/224/3221225835/10000100000000060000000014698360_0.smil
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方卫视",北京卫视
 http://139.215.98.88/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方卫视",东方卫视
+http://139.215.98.88/PLTV/88888888/224/3221225786/10000100000000060000000014995744_0.smil
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方卫视",湖南卫视
+http://139.215.98.88/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
+http://139.215.98.88/PLTV/88888888/224/3221226069/10000100000000060000000015417300_0.smil
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="地方卫视",天津卫视
 http://139.215.98.88/PLTV/88888888/224/3221225624/10000100000000060000000014261467_0.smil
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方卫视",河北卫视
@@ -98,10 +104,6 @@ http://139.215.98.88/PLTV/88888888/224/3221226067/100001000000000600000000154173
 http://139.215.98.88/PLTV/88888888/224/3221226055/10000100000000060000000015417309_0.smil
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="地方卫视",黑龙江卫视
 http://139.215.98.88/PLTV/88888888/224/3221225817/10000100000000060000000014274982_0.smil
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方卫视",东方卫视
-http://139.215.98.88/PLTV/88888888/224/3221225786/10000100000000060000000014995744_0.smil
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
-http://139.215.98.88/PLTV/88888888/224/3221226069/10000100000000060000000015417300_0.smil
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方卫视",江苏卫视
 http://139.215.98.88/PLTV/88888888/224/3221225873/10000100000000060000000014817978_0.smil
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="地方卫视",安徽卫视
@@ -116,8 +118,6 @@ http://139.215.98.88/PLTV/88888888/224/3221225821/100001000000000600000000142749
 http://139.215.98.88/PLTV/88888888/224/3221226065/10000100000000060000000015417303_0.smil
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="地方卫视",湖北卫视
 http://139.215.98.88/PLTV/88888888/224/3221225823/10000100000000060000000014274985_0.smil
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方卫视",湖南卫视
-http://139.215.98.88/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方卫视",广东卫视
 http://139.215.98.88/PLTV/88888888/224/3221225815/10000100000000060000000014274978_0.smil
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方卫视",深圳卫视
