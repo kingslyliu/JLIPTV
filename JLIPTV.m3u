@@ -63,6 +63,10 @@ http://39.135.34.144:8080/000000001000/1000000001000016568/index.m3u8?
 http://39.135.34.144:8080/000000001000/1000000001000020780/index.m3u8?
 #EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
 http://39.135.34.144:8080/000000001000/1000000001000024621/index.m3u8?
+#EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
+http://xianlu2.52tb.xyz:6610/PLTV/77777777/224/3221225773/index.m3u8?
+#EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 #EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
 http://39.135.34.144:8080/000000001000/1000000001000013731/index.m3u8?
 #EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
