@@ -79,6 +79,8 @@ http://39.135.34.144:8080/000000001000/1000000001000001925/index.m3u8?
 http://gx.52tb.xyz:8282/tsfile/live/0119_1.m3u8?
 #EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
 http://110.72.80.236:8282/tsfile/live/0121_1.m3u8?
+#EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
+http://xianlu2.52tb.xyz:6610/PLTV/77777777/224/3221225678/index.m3u8?
 #EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
 http://123.178.206.42:8000/hls/36/index.m3u8
 #EXTINF:-1 group-title="地方卫视（线路1）" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视
